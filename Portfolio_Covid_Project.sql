@@ -1,6 +1,6 @@
 Use Portofolio
 
-SELECT * FROM Portofolio..CovidDeaths
+SELECT * FROM Portfolio..CovidDeaths
 ORDER BY 3, 4
 
 SELECT *FROM [dbo].[CovidVaccinations]

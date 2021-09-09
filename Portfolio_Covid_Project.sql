@@ -1,4 +1,4 @@
-Use Portofolio
+Use Portfolio
 
 SELECT * FROM Portfolio..CovidDeaths
 ORDER BY 3, 4
